@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PLTFGon1s6whOBnyKi7v04vRoT2mA+y1yyKhoIffVYDhfA+x/maVs0t2wfO17kiQ+dCpFLptT9W9pM3sDJmvNw==",
+  "success": true,
+  "projectFilePath": "D:\\University\\ASP.NET\\ViewComponent\\ViewComponent\\ViewComponent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skiller\\.nuget\\packages\\jsonconverter.abstractions\\0.4.0\\jsonconverter.abstractions.0.4.0.nupkg.sha512",
+    "C:\\Users\\Skiller\\.nuget\\packages\\jsonconverter.newtonsoft.json\\0.4.0\\jsonconverter.newtonsoft.json.0.4.0.nupkg.sha512",
+    "C:\\Users\\Skiller\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Skiller\\.nuget\\packages\\stef.validation\\0.1.1\\stef.validation.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
